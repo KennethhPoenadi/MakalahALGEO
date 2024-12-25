@@ -12,4 +12,4 @@ Cara menjalankan:
 3. Jalankan denngan python XX, yang mana XX adalah nama file yaitu predictsupplydemand.py
 4. Ubah data sesuai yang ingin diprediksi.
 
-** SELAMAT MENGGUNAKAN PROGRAM ANALISIS SUPPLY DEMAND DENGAN NILAI EIGEN **
+**SELAMAT MENGGUNAKAN PROGRAM ANALISIS SUPPLY DEMAND DENGAN NILAI EIGEN**
